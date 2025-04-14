@@ -1,4 +1,4 @@
-# LLM Engineering - Master AI and LLMs
+# LLM Engineering - Master AI and LLMs - RDS
 
 ## Your 8 week journey to proficiency starts today
 
